@@ -25,3 +25,7 @@ public class FirstTest {
 class Zamazingo {
 
 }
+
+class Why {
+
+}
