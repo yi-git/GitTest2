@@ -31,5 +31,4 @@ class Why {
 }
 
 class Why2 {
-    
 }
