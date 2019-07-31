@@ -29,3 +29,7 @@ class Zamazingo {
 class Why {
 
 }
+
+class Why2 {
+    
+}
